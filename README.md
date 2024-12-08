@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pratiktele4@gmail.com**
 
-- 📄 Know about my experiences [Visit to my portfolio](https://pratikteleportfolio.netlify.app)
+- 📄 Know about my experiences [portfolio](https://pratikteleportfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
