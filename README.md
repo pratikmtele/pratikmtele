@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Tele</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratikmtele](https://github.com/pratikmtele)
 
