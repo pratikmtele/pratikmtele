@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Javascript, HTML, CSS**
 
-- 📫 How to reach me **pratiktele4@gmail.com**
+- 📫 How to reach me **pratiktele2000@gmail.com**
 
 - 📄 Know about my experiences [portfolio](https://pratikteleportfolio.netlify.app)
 
