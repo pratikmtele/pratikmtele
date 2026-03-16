@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building MERN-stack projects and improving real-time features.<br><br>🤝 I’m looking to collaborate on<br>Web apps, backend logic, and anything that helps improve user experience.<br><br>🤲 I’m looking for help with<br>Learning better ways to structure scalable backend and frontend code.<br><br>🌱 I’m currently learning<br>Advanced Node.js, MongoDB patterns, and cleaner React workflows.<br><br>💬 Ask me about<br>MERN stack projects, APIs, and real-time communication features.<br><br>⚡ Fun fact<br>I enjoy coding late at night when ideas flow the best.
+🔭 I’m currently working on<br>Building MERN-stack projects and improving real-time features.<br><br>🤝 I’m looking to collaborate on<br>Web apps, backend logic, and anything that helps improve user experience.<br><br>🤲 I’m looking for help with<br>Learning better ways to structure scalable backend and frontend code.<br><br>🌱 I’m currently learning<br>Advanced Node.js, MongoDB patterns, and cleaner React workflows.<br><br>💬 Ask me about<br>MERN stack projects, APIs, and real-time communication features.
 
 
 ## 🌐 Socials:
